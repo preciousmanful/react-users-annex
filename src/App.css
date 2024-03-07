@@ -30,7 +30,7 @@ ul{
 
 .flex{
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   gap: 1rem;
   flex-wrap: wrap;
 }
